@@ -8,4 +8,5 @@
     echo "<h3> and my age is " . $age . "</h3>";
 
     ?>
+    <button type="button" class="btn btn-secondary">click me</button>
     <?php require("includes/footer.php") ?>
